@@ -1,0 +1,25 @@
+
+1.	ENTRAR A POWER AUTOMATE
+Ingresar al Outlook y ubicar en la parte superior izquierda el botón de iniciador de aplicaciones  
+Luego en la ventana desplegada ubicar botón de Power Automate 
+
+2.	UBICAR FLUJO PARA SU ACTIVACION
+Una vez dentro de la aplicación se despliega la ventana de bienvenida y deberemos ir a:
+ Mis flujos / Compartido conmigo / INGRESO DE HORAS - PRODUCCION
+
+3.	INGRESO  Y EJECUCION DEL FLUJO
+Ubicado dentro del flujo Seguimiento MVPBCP solo hacer clic sobre botón ejecutar, asi se lanza la aplicación y se procede con el siguiente paso.
+ 
+
+4.	LLENADO DE FORMULARIO E INICIO DEL FLUJO
+En el lado derecho de despliega un formulario a llenar con los datos del AGILEOPS, aquí se incluirá la información del horario, fecha de jornada, hora de inicio y de finalización, comentario. Una vez concluido el llenado del formulario hacer clic sobre el botón Ejecutar flujo para iniciar el flujo.
+
+
+5.	EJECUCION SATISFACTORIA DE FLUJO
+Luego de ejecutado el flujo aparecerá un mensaje de que el flujo se ha ejecutado correctamente, lo que significara que el registro de horas ha sido incluida en el Excel del SharePoint de TEAM BCP.
+
+ 
+
+6.	REVISION DEL REGISTRO REALIZADO.
+Para realizar la revisión del registro de horas solo debemos ingresar al SharePoint de Tivit y buscar:
+Equipo / Registro de Horas / Archivos / Propuesta Registro de Horas / Kairos – Registro de horas.xlsx
